@@ -13,5 +13,6 @@
 
 (https://romanbarinov84.github.io/TodoList-Redux-toolkit/)
 
-![Снимок экрана (1)](https://github.com/user-attachments/assets/68da447e-4123-4c2e-9750-8f9067de1450)
+
+![Снимок экрана (2)](https://github.com/user-attachments/assets/5b50a34a-e02a-4256-a478-489506886c85)
 
