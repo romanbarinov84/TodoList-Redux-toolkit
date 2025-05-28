@@ -16,3 +16,7 @@
 
 ![Снимок экрана (2)](https://github.com/user-attachments/assets/5b50a34a-e02a-4256-a478-489506886c85)
 
+## 📦 Установка
+```bash
+npm install
+npm run dev
